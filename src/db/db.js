@@ -6,12 +6,13 @@ import { getAuth } from 'firebase/auth';
 // import { addAdmin } from './addAdmin.js';
 
 const firebaseConfig = {
-  apiKey: "AIzaSyCIWXWl1Y7LFf9gXjvyI_WaCGJiwg2Vuuk",
-  authDomain: "raps-points-db.firebaseapp.com",
-  projectId: "raps-points-db",
-  storageBucket: "raps-points-db.appspot.com",
-  messagingSenderId: "39755402475",
-  appId: "1:39755402475:web:88c1d437e46f3b6525c2ae"
+  apiKey: "AIzaSyDn29-aqIg1VB6jr1jKyawlJOV2LDEl0Fo",
+  authDomain: "rapsbol.firebaseapp.com",
+  projectId: "rapsbol",
+  storageBucket: "rapsbol.firebasestorage.app",
+  messagingSenderId: "472273089221",
+  appId: "1:472273089221:web:fca4b11b76431353e2f6ac",
+  measurementId: "G-KFFHK0KV3L"
 };
 
 // Initialize Firebase
